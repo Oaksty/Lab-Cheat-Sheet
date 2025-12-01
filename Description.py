@@ -1,1 +1,1 @@
-print("This is a cheat sheet for DevOps Lab test")
+print("This is a cheat sheet for DevOps Lab test and also a trial run for it")
