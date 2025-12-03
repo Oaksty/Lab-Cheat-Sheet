@@ -18,6 +18,8 @@ git init                     # Initialize a new Git repository
 
 git remote add origin <url>  # Link local repo to GitHub
 
+git remote set-url origin {URL} #change to new repo
+
 git remote -v                # View remote repository URLs
 
 
